@@ -1,4 +1,4 @@
-# Jhorvin FOrbes
+# Jhorvin Forbes
 ## Git Training with Sir Josh
 
 
